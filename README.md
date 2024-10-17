@@ -1,5 +1,5 @@
 - Hi, I’m @SatvG
-- I’m interested in AI, ML, and Quantum Computing 
+- I’m interested in AI and ML
 - I’m currently learning CSE 
 
 <!---
